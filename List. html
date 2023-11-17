@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <html>
    <head>
-     <title>Create all the list elements as links</title>
+     <title>First Project</title>
    </head>
    <body>
-     <ol >
+     <h1>Create all the elements as links</h1>
+     <ol></ol>
        <li>History</li>
      <ol type="i">
        <li>Background</li>
@@ -66,3 +67,4 @@
        </ol>
    </body>
 </html>
+
