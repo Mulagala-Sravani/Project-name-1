@@ -5,7 +5,7 @@
    </head>
    <body>
      <h1>Create all the elements as links</h1>
-     <ol></ol>
+     <ol>
        <li>History</li>
      <ol type="i">
        <li>Background</li>
